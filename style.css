@@ -414,4 +414,5 @@ body {
 } */
 .ff{
     display:flex;
+    align-items: center;
 }
