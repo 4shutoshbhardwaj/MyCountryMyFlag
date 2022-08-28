@@ -97,7 +97,7 @@ body {
 }
 
 .cont>#box1>#innBox2>#minBox1 {
-    /* border: 2px solid violet; */
+    /* border: 2px solid blue; */
     background-color: orange;
     width: 5px;
 
